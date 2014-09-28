@@ -1,0 +1,3 @@
+F:\C#weiqi\newproject\weiqi\weiqi\obj\x86\Debug\weiqi.Form1.resources
+F:\C#weiqi\newproject\weiqi\weiqi\obj\x86\Debug\weiqi.Properties.Resources.resources
+F:\C#weiqi\newproject\weiqi\weiqi\obj\x86\Debug\weiqi.csproj.GenerateResource.Cache
